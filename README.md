@@ -8,8 +8,8 @@ If you have any questions please do not hesitate to raise them with us. Please n
 Good luck, take your time, and have fun! 😊
 
 ## Exercise 1 - Login Exercise
-The [Login Exercise](questions/BackEndChallenges.md) file contains the instructions for a Login challenge that you are required to complete.
+The [Login Exercise](Exercise 1 - Login Exercise.pdf) file contains the instructions for a Login challenge that you are required to complete.
 
 ## Exercise 2 - QA System Challenge
-The [QA System Challenge](questions/FrontEndChallenges.md) file contains a diagram and the instructions for the second exercise you are required to complete.
+The [QA System Challenge](Exercise 2 - QA System Challenge.pdf) file contains a diagram and the instructions for the second exercise you are required to complete.
 
