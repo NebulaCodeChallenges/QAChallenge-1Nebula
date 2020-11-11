@@ -3,7 +3,7 @@ Congratulations on making it through the first round interview!
 
 We do not believe board questions are the best way to assess your capabilities. As such, we have prepared some challenges for you to complete.
 
-If you have any questions please do not hesitate to raise them with us. Please note down any assumptions you may make during the challenges. Feel free to add explanations of how your thinking as you go thorugh the exercises.
+If you have any questions please do not hesitate to raise them with us. Please note down any assumptions you may make during the challenges. Feel free to add explanations of your thinking as you go thorugh the exercises.
 
 Good luck, take your time, and have fun! 😊
 
