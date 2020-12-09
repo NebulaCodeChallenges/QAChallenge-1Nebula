@@ -13,3 +13,4 @@ The [Login Exercise](https://github.com/NebulaCodeChallenges/QAChallenge-1Nebula
 ## Exercise 2 - QA System Challenge
 The [QA System Challenge](https://github.com/NebulaCodeChallenges/QAChallenge-1Nebula/blob/main/Exercise%202%20-%20QA%20System%20Challenge.pdf) file contains a diagram and the instructions for the second exercise you are required to complete.
 
+`Please use your own words to outline the approach you would use in this scenario. Googling is fine, but copy-pasted lists and templates from the internet are not what we're looking for! :)`
